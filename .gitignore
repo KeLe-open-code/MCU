@@ -1,0 +1,36 @@
+# Personal or student information
+/1/2*.c
+
+# Keil user settings and build outputs
+*.uvgui.*
+*.uvopt
+*.build_log.htm
+*.lst
+*.LST
+*.obj
+*.OBJ
+*.m51
+*.M51
+*.lnp
+*.hex
+*.HEX
+*.__i
+**/Listings/
+**/Objects/
+**/verify/
+**/代码/
+**/代码1/
+/2/动态显示*
+/3/2*
+/5/矩阵式键盘*
+build-check.txt
+
+# Proteus backups and user settings
+*.workspace
+*.pdsbak
+*.agent-backup
+*_candidate.DSN
+
+# OS files
+.DS_Store
+Thumbs.db
